@@ -3,7 +3,7 @@ Empecé a jugarlo usando autotranslator pero por el efecto maquina de escribir d
 Así que me he puesto a investigar y he conseguido traducir el 99% (el porcentaje esta sacado por la Universidad de Misgüev  pero creo que es bastante aproximado).
 Así que tras unos días de trabajo he conseguido traducirlo. 
 
-**Hay que descomprimir y sobreescribir los archivos.***
+**Hay que descomprimir y sobreescribir los archivos.**
 
 Antes de instalarla si quieres saca una copia de seguridad de:
 banner_Data\StreamingAssets\Data\Character.bin
