@@ -6,3 +6,4 @@ Para instalarla:
   3 - Sobre escribe con los que encuentras aqui.
 
   Es una primera traducción de la DEMO, si me gusta el juego me lo comprare y traduciré el resto.
+  He tenido que quitar acentos, la apertura de interrogaciones (¿) y de admiraciones (¡) porque la fuente del juego no lo mostraba correctamente.
